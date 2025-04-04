@@ -28,7 +28,6 @@ I'm a passionate researcher and developer focusing on **IoT security, device ide
 
 ## 🌟 Interests  
 - Usable security and privacy in IoT.  
-- Streamlit applications for data visualization.  
 - Machine learning in network analysis.  
 
 🌍 Let's connect to build a safer and more intelligent IoT ecosystem together!
